@@ -1,6 +1,6 @@
 {application, erlang_release_example,
  [{description, "An OTP application"},
-  {vsn, "0.1.0"},
+  {vsn, "0.2.0"},
   {registered, []},
   {mod, { erlang_release_example_app, []}},
   {applications,

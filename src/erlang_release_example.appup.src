@@ -1,0 +1,4 @@
+{"0.2.0",
+ [{"0.1.0", [{load_module, current_version}]}],
+ [{"0.1.0", [{load_module, current_version}]}]
+}.
