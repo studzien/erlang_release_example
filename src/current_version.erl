@@ -14,7 +14,7 @@ init([]) ->
     {ok, no_state}.
 
 handle_call(get, _From, State) ->
-    {reply, "0.1.0", State}.
+    {reply, "0.2.0", State}.
 
 handle_cast(_, State) ->
     {noreply, State}.

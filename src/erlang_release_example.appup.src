@@ -1,0 +1,4 @@
+{"0.2.0",
+ [{"0.1.0", [{update,current_version,{advanced,[]},[]}]}],
+ [{"0.1.0", [{update,current_version,{advanced,[]},[]}]}]
+}.
